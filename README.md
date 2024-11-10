@@ -1,3 +1,5 @@
+[Open in Google Colab](https://colab.research.google.com/github/MuhammadAbbas01/Predict-Crime-rate/blob/main/Untitled10.ipynb)
+
 ## 1 - Introduction
 
 This dataset contains crime statistics from U.S. cities in 1975, including data on violent crimes like homicides, rapes, assaults, and robberies. It provides insights into the relationship between population size and crime rates. The goal of this analysis is to explore crime patterns across cities and assess the impact of demographic factors on crime rates, helping to inform future crime prevention strategies.
