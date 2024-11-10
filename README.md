@@ -1,4 +1,4 @@
-[Open in Google Colab](https://colab.research.google.com/github/MuhammadAbbas01/Predict-Crime-rate/blob/main/Untitled10.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadAbbas01/Predict-Crime-rate/blob/main/Untitled10.ipynb)
 
 ## 1 - Introduction
 
